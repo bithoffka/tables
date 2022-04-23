@@ -9,10 +9,7 @@ body {
   border: 1px solid #f06d06;
   border-radius: 10px;
   width: fit-content;
-  position: absolute;
-left: 50%;
-top: 50%;
-transform: translate(-50%, -50%);
+  margin: auto;
 }
 .pad {
   padding: 10px;
